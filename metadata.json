@@ -1,0 +1,5 @@
+{
+  "name": "PlatformPro SaaS Kit",
+  "description": "A multi-feature SaaS platform dashboard for admin and client users, including feature management, support, and an AI Gateway powered by Gemini.",
+  "requestFramePermissions": []
+}
